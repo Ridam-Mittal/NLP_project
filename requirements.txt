@@ -13,6 +13,5 @@ scikit-learn
 spacy
 pytesseract
 language_tool_python
-PIL
 docx2txt
 fpdf
