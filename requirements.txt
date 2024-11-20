@@ -10,7 +10,7 @@ Pillow
 textblob
 PyPDF2
 scikit-learn
-spacy
+spacy[en_core_web_sm]
 pytesseract
 language_tool_python
 docx2txt
