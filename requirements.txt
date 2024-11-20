@@ -13,3 +13,4 @@ scikit-learn
 spacy
 pytesseract
 language_tool_python
+PIL
