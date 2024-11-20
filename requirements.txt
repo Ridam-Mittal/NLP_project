@@ -15,3 +15,4 @@ pytesseract
 language_tool_python
 docx2txt
 fpdf
+cv2
