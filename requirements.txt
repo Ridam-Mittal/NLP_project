@@ -12,3 +12,4 @@ PyPDF2
 scikit-learn
 spacy
 pytesseract
+language_tool_python
