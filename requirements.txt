@@ -16,3 +16,4 @@ language_tool_python
 docx2txt
 fpdf
 opencv-python-headless
+wordcloud
