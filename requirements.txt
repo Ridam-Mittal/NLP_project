@@ -9,3 +9,4 @@ streamlit-tags
 Pillow
 textblob
 PyPDF2
+scikit-learn
