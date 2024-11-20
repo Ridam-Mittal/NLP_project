@@ -1,0 +1,47 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# IDE/editor directories
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.tmp
+
+# Compiled C extensions
+*.so
+*.dylib
+*.dll
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Testing/coverage
+.tox/
+.nox/
+.coverage
+.hypothesis/
+.pytest_cache/
+
+# Virtual environment
+new_venv/
