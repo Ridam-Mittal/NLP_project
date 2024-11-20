@@ -10,3 +10,5 @@ Pillow
 textblob
 PyPDF2
 scikit-learn
+spacy
+pytesseract
