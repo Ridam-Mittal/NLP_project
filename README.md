@@ -54,6 +54,14 @@ Future Scope
 4.	AI-Based Interview Preparation: Expand them, to mimic interviews and to provide effects with the responses of users.
 5.	Gamification: Reward users for overall activity with special markers and badges, encouraging people to fill out their profiles and use the site more often.
 
+Teammates:
+Ridam Mittal E22CSEU1185
+Vittesh Arora E22CSEU1171
+Anurag Munjal E22CSEU1181
+
+Youtube Video Link:- https://youtu.be/psLxM4jg-w4
+
+
 
 
 
